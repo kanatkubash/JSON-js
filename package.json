@@ -1,0 +1,19 @@
+{
+  "name": "json-js",
+  "version": "1.0.0",
+  "description": "douglascrockford/JSON-js fork to use with npm",
+  "main": "cycle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanatkubash/JSON-js.git"
+  },
+  "author": "Douglas Crockford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanatkubash/JSON-js/issues"
+  },
+  "homepage": "https://github.com/kanatkubash/JSON-js#readme"
+}
